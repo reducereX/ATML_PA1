@@ -1,5 +1,3 @@
 data/
 fast-style-transfer/
 fast-style-transfer.zip
-resnet50_stl10.pth
-vit_stl10.pth
