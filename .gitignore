@@ -1,5 +1,9 @@
 data/
 fast-style-transfer/
 fast-style-transfer.zip
+<<<<<<< HEAD
 resnet50_stl10.pth
 vit_stl10.pth
+Task3/data/
+=======
+>>>>>>> 9ad816698eb368d37fdc37d9938d7abb5d58f13f
